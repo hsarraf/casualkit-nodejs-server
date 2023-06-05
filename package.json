@@ -1,0 +1,26 @@
+{
+  "name": "casualkit-quick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TCPServer.js",
+  "scripts": {
+    "start": "nodemon TCPServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hsarraf@bitbucket.org/hsarraf1/cardgame-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/hsarraf1/cardgame-node/issues"
+  },
+  "homepage": "https://bitbucket.org/hsarraf1/cardgame-node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.12.0"
+  }
+}
